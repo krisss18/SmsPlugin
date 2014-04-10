@@ -1,0 +1,9 @@
+name: SmsPlugin
+main: me.kristjan.SmsPlugin.SmsPlugin
+version: 0.4
+commands:
+   k2sklus:
+      description: K2skluse tekst
+      usage: /k2sklus
+      permission: smsplugin.k2sklus
+      permission-message: &2Sul ei ole <permission> 6igust!
